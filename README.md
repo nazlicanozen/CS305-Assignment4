@@ -2,10 +2,10 @@
 # Semantic Analyzer for LCD using Scheme
 
 Overview
-This project focuses on implementing a semantic analyzer for the LCD language using Scheme. The analyzer will enforce semantic rules on LCD programs, which are represented as nested lists in Scheme.
+This project focuses on implementing a semantic analyzer for the LCD language using Scheme. The analyzer enforces semantic rules on LCD programs, which are represented as nested lists in Scheme.
 
 📌 Key Features
-You will implement the following functions:
+functions:
 
 find-undeclared-identifiers
 
